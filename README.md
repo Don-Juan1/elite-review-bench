@@ -2,16 +2,7 @@
 
 Elite Review Bench is a public, self-contained advisory-review framework for structured decision analysis, second opinions, dissent memos, risk review, and board-style governance review.
 
-It is designed to help users slow down high-consequence decisions long enough to separate facts from assumptions, surface dissent, identify expert-review thresholds, and choose the next responsible step.
-
-## Courtesy v1
-
-Created as an independent public contribution in connection with:
-
-**Welcome: Vibe Coding for Finance — Weekly Workshop**
-
-Event link:  
-https://luma.com/g322av28?tk=wXsFD9
+It helps users slow down high-consequence decisions long enough to separate facts from assumptions, surface dissent, identify expert-review thresholds, and choose the next responsible step.
 
 ## What It Does
 
@@ -27,21 +18,21 @@ Elite Review Bench gives users a disciplined advisory layer for reviewing import
 
 ## Claude Code Use
 
-This repository is intentionally self-contained. A new Claude Code session does not need prior memory, external context, private instructions, or any separate operating framework to use it.
+This repository is self-contained. A new Claude Code session can use the included files directly, without any prerequisite setup beyond the materials in this repository.
 
 Recommended entry file:
 
-- `CLAUDE.md` for Claude Code behavior.
-- `SKILL.md` for general AI skill or project-instruction use.
+- `CLAUDE.md` for Claude Code usage.
+- `SKILL.md` for general AI skill or project setup use.
 
 ## Quick Start
 
-Use the framework by uploading or pasting `SKILL.md` into a new AI instance, Claude Project, Claude Code workspace, or similar instruction-enabled environment.
+Use the framework by uploading or referencing `SKILL.md` in a Claude Project, Claude Code workspace, or another supported AI environment.
 
-Example activation prompt:
+Example request:
 
 ```text
-Use Elite Review Bench. Give me a board-style second-opinion review of the following decision. Separate verified facts from assumptions, apply evidence tiers, include dissent, identify expert-review triggers, and give a go / no-go advisory recommendation.
+Use Elite Review Bench. Give me a board-style second-opinion review of the following decision. Separate verified facts from assumptions, apply evidence tiers, include dissent, identify expert-review items, and give a go / no-go advisory recommendation.
 
 Decision to review:
 [insert decision]
@@ -49,11 +40,11 @@ Decision to review:
 
 ## Repository Contents
 
-- `CLAUDE.md` — Claude Code operating instruction.
-- `SKILL.md` — primary standalone instruction file.
+- `CLAUDE.md` — Claude Code usage guide.
+- `SKILL.md` — primary standalone review file.
 - `templates/review_request.md` — structured intake template.
 - `templates/board_minutes.md` — board-style review output template.
-- `examples/first_use_prompt.md` — starter prompt.
+- `examples/first_use_prompt.md` — starter request.
 - `DISCLAIMER.md` — professional-advice and warranty limitations.
 - `LICENSE_NOTICE.md` — public use notice.
 - `PUBLIC_RELEASE_NOTES.md` — release notes.
