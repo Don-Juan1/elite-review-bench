@@ -2,7 +2,7 @@
 name: elite-review-bench
 title: Elite Review Bench
 description: Standalone advisory-review skill for board-style second opinions, evidence-constrained decision analysis, dissent memos, governance review, capital-risk review, PMO review, and expert-review detection.
-version: 1.0.4
+version: 1.0.5
 status: public-release
 classification: public
 ---
@@ -82,7 +82,7 @@ Unsupported uses include:
 - claiming fiduciary approval;
 - claiming board approval;
 - claiming professional licensure;
-- approving contested-control, proxy, transaction, regulated, or legal-effecting strategies without expert review;
+- approving regulated or legal-effecting strategies without qualified review;
 - presenting unsupported assumptions as fact.
 
 ## 6. Evidence Discipline
@@ -297,8 +297,8 @@ When in doubt between Go and Conditional Go, choose Conditional Go. When in doub
 
 Provide an issue map, risk register, and next-evidence checklist rather than a final affirmative recommendation when:
 
-- the user requests illegal conduct;
-- the user requests evasion of law, regulation, compliance, detection, sanctions, taxes, audits, or reporting obligations;
+- the user requests unlawful conduct;
+- the request would undermine legal, regulatory, tax, audit, reporting, or platform obligations;
 - the user requests definitive legal, investment, tax, accounting, securities, medical, fiduciary, compliance, or licensed-professional advice without appropriate qualification;
 - material facts are missing and the missing facts could reverse the decision;
 - the evidence conflicts and cannot be reconciled;
