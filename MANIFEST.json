@@ -1,7 +1,7 @@
 {
   "name": "elite-review-bench",
   "title": "Elite Review Bench",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "status": "public-release",
   "classification": "public",
   "description": "Standalone advisory-review framework for board-style second opinions, evidence-constrained decision analysis, dissent memos, governance review, risk review, PMO review, and expert-review detection.",
@@ -29,5 +29,6 @@
     "Generate a dissent memo",
     "Run a board-level risk review"
   ],
-  "use_boundary": "Advisory decision-support only. See DISCLAIMER.md and LICENSE_NOTICE.md."
+  "use_boundary": "Advisory decision-support only. See DISCLAIMER.md and LICENSE_NOTICE.md.",
+  "release_note": "Courtesy v1 language is defined in README.md, USAGE.md, and PUBLIC_RELEASE_NOTES.md."
 }
