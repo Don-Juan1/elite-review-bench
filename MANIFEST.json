@@ -1,7 +1,7 @@
 {
   "name": "elite-review-bench",
   "title": "Elite Review Bench",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "status": "public-release",
   "classification": "public",
   "description": "Standalone advisory-review framework for board-style second opinions, evidence-constrained decision analysis, dissent memos, governance review, risk review, PMO review, and expert-review detection.",
@@ -20,7 +20,7 @@
     "templates/review_request.md",
     "templates/board_minutes.md"
   ],
-  "activation_phrases": [
+  "example_requests": [
     "Use Elite Review Bench",
     "Give me a board-style second-opinion review",
     "Produce a go / no-go advisory review",
