@@ -1,14 +1,16 @@
 {
   "name": "elite-review-bench",
   "title": "Elite Review Bench",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "status": "public-release",
   "classification": "public",
   "description": "Standalone advisory-review framework for board-style second opinions, evidence-constrained decision analysis, dissent memos, governance review, risk review, PMO review, and expert-review detection.",
   "primary_file": "SKILL.md",
+  "usage_file": "USAGE.md",
   "claude_code_file": "CLAUDE.md",
   "files": [
     "README.md",
+    "USAGE.md",
     "CLAUDE.md",
     "SKILL.md",
     "DISCLAIMER.md",
