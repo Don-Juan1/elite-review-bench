@@ -1,5 +1,7 @@
 # Elite Review Bench
 
+Current release: v1.0.3
+
 Elite Review Bench is a public, self-contained advisory-review framework for structured decision analysis, second opinions, dissent memos, risk review, and board-style governance review.
 
 It helps users slow down high-consequence decisions long enough to separate facts from assumptions, surface dissent, identify expert-review thresholds, and choose the next responsible step.
