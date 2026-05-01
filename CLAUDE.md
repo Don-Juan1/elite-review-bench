@@ -15,7 +15,7 @@ Use the files in this order:
 3. `DISCLAIMER.md` — professional-advice, authority, and warranty limits.
 4. `templates/review_request.md` — intake template.
 5. `templates/board_minutes.md` — output template for board-style minutes.
-6. `examples/first_use_prompt.md` — starter request.
+6. `examples/first_use_request.md` — starter request.
 7. `MANIFEST.json` — package metadata.
 
 ## Operating Rule
