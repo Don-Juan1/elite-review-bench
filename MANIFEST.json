@@ -1,0 +1,31 @@
+{
+  "name": "elite-review-bench",
+  "title": "Elite Review Bench",
+  "version": "1.0.2",
+  "status": "public-release",
+  "classification": "public",
+  "description": "Standalone advisory-review framework for board-style second opinions, evidence-constrained decision analysis, dissent memos, governance review, risk review, PMO review, and expert-review detection.",
+  "primary_file": "SKILL.md",
+  "claude_code_file": "CLAUDE.md",
+  "files": [
+    "README.md",
+    "CLAUDE.md",
+    "SKILL.md",
+    "DISCLAIMER.md",
+    "PUBLIC_RELEASE_NOTES.md",
+    "LICENSE_NOTICE.md",
+    "MANIFEST.json",
+    "VERSION",
+    "examples/first_use_prompt.md",
+    "templates/review_request.md",
+    "templates/board_minutes.md"
+  ],
+  "activation_phrases": [
+    "Use Elite Review Bench",
+    "Give me a board-style second-opinion review",
+    "Produce a go / no-go advisory review",
+    "Generate a dissent memo",
+    "Run a board-level risk review"
+  ],
+  "use_boundary": "Advisory decision-support only. See DISCLAIMER.md and LICENSE_NOTICE.md."
+}
