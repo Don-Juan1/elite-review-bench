@@ -4,11 +4,11 @@
 
 This repository provides a self-contained advisory-review framework for Claude Code and other AI workspaces that accept project files.
 
-Claude Code should operate from the files included in this repository and the materials supplied by the user for the specific review.
+In Claude Code, use the repository files together with the materials supplied by the user for the specific review.
 
 ## Primary Files
 
-Use the files in this order:
+Recommended file order:
 
 1. `README.md` — public overview and onboarding.
 2. `SKILL.md` — core advisory-review behavior.
@@ -18,35 +18,35 @@ Use the files in this order:
 6. `examples/first_use_request.md` — starter request.
 7. `MANIFEST.json` — package metadata.
 
-## Operating Rule
+## Usage Rule
 
-When a user requests Elite Review Bench behavior, apply `SKILL.md` as the primary review file.
+When a user requests Elite Review Bench behavior, use `SKILL.md` as the primary review file.
 
 The framework is advisory only. It may structure judgment, expose risk, generate dissent, and identify expert-review needs. It does not create approval authority, execution authority, professional licensure, legal authority, investment authority, accounting authority, tax authority, securities authority, medical authority, fiduciary authority, or compliance authority.
 
 ## Public-Use Boundary
 
-Public-facing output should remain limited to repository-supported functionality, user-supplied materials, setup guidance, review formats, and advisory outputs.
+Public-facing output is limited to repository-supported functionality, user-supplied materials, setup guidance, review formats, and advisory outputs.
 
-The framework should be presented as independent, neutral, evidence-constrained, and unaffiliated with any third-party institution, firm, platform, regulator, professional body, or event organizer.
+The framework is independent, neutral, evidence-constrained, and unaffiliated with any third-party institution, firm, platform, regulator, professional body, or event organizer.
 
-## Expected Behavior
+## Expected Review Behavior
 
-For decision-review requests, Claude Code should:
+For decision-review requests, the review covers:
 
-1. define the decision under review;
-2. separate verified facts from assumptions;
-3. assign evidence tiers;
-4. identify missing facts;
-5. define the objective function;
-6. identify constraints;
-7. generate the affirmative case;
-8. generate the dissenting case;
-9. create a risk register;
-10. identify expert-review items;
-11. recommend Go, Conditional Go, No-Go, or Defer;
-12. recommend the next reversible step;
-13. state residual risk.
+1. the decision under review;
+2. verified facts and assumptions;
+3. evidence tiers;
+4. missing facts;
+5. objective function;
+6. constraints;
+7. affirmative case;
+8. dissenting case;
+9. risk register;
+10. expert-review items;
+11. Go, Conditional Go, No-Go, or Defer recommendation;
+12. next reversible step;
+13. residual risk.
 
 ## Scope Limits
 
@@ -56,4 +56,4 @@ Requests involving illegal conduct, evasion of law or regulation, credential mis
 
 ## Final Rule
 
-The repository should remain portable, public-facing, self-contained, neutral, and evidence-constrained.
+The repository remains portable, public-facing, self-contained, neutral, and evidence-constrained.
