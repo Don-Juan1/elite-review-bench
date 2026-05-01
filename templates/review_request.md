@@ -2,9 +2,9 @@
 
 Use this template to request a structured board-style review.
 
-## Activation Prompt
+## Starter Request
 
-Use Elite Review Bench. Give me a board-style second-opinion review of the following decision. Separate verified facts from assumptions, apply evidence tiers, include dissent, identify expert-review triggers, and give a go / no-go advisory recommendation.
+Use Elite Review Bench. Give me a board-style second-opinion review of the following decision. Separate verified facts from assumptions, apply evidence tiers, include dissent, identify expert-review items, and give a go / no-go advisory recommendation.
 
 ## Decision to Review
 
@@ -50,5 +50,5 @@ Use Elite Review Bench. Give me a board-style second-opinion review of the follo
 - Evidence posture
 - Risk register
 - Dissenting view
-- Expert-review triggers
+- Expert-review items
 - Recommended next reversible step
