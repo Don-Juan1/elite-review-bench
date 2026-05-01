@@ -1,12 +1,12 @@
 # Public Release Notes
 
-## Elite Review Bench v1.0.3
+## Elite Review Bench v1.0.4
 
-This is a standalone public-release advisory-review framework for structured decision support, board-style second opinions, dissent memos, risk identification, and expert-review detection.
+This release adds a polished usage guide and refines the public package language for clarity, readability, and practical adoption.
 
 ## Release Purpose
 
-Create a portable, evidence-constrained review framework that users can apply in AI environments that accept project files for high-consequence decision review, risk review, dissent generation, and next-step discipline.
+Create a portable, evidence-constrained review framework that users can apply in AI workspaces for high-consequence decision review, risk review, dissent generation, and next-step discipline.
 
 ## Included Capabilities
 
@@ -21,11 +21,13 @@ Create a portable, evidence-constrained review framework that users can apply in
 - Capital-risk and governance review.
 - Pre-mortem review.
 - Claude Code self-contained usage support.
+- Practical usage guidance for Claude Code, Claude Projects, ChatGPT Projects, and manual copy-paste workflows.
 
 ## Public-Release Updates
 
-- Uses the neutral public product identity: Elite Review Bench.
-- Presents the product as advisory decision support, not execution authority.
-- Strengthens professional-advice, approval-authority, warranty, and user-responsibility limitations.
+- Adds `USAGE.md` as the practical setup and workflow guide.
+- Updates `README.md` for cleaner onboarding and v1.0.4 consistency.
+- Updates `MANIFEST.json` and `VERSION` for package integrity.
 - Keeps documentation focused on repository-supported features, setup guidance, review formats, and expected outputs.
-- Improves language consistency across `README.md`, `CLAUDE.md`, `SKILL.md`, examples, templates, and package metadata.
+- Preserves the community courtesy context while maintaining clear independence and no-affiliation language.
+- Strengthens the public-facing tone: concise, professional, readable, and evidence-first.
