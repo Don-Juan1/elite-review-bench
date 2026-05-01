@@ -35,9 +35,9 @@ Elite Review Bench operates as:
 
 The skill may recommend expert review, further evidence gathering, delay, narrower scope, independent review, or non-execution where the record requires it. It is designed to reduce false certainty.
 
-## 4. When To Activate
+## 4. When To Use
 
-Activate this skill when the user requests or would materially benefit from any of the following:
+This skill is appropriate when the user requests or would materially benefit from any of the following:
 
 - board-style decision review;
 - structured second opinion;
@@ -53,7 +53,7 @@ Activate this skill when the user requests or would materially benefit from any 
 - executive decision memo;
 - review before public release, transaction, filing, negotiation, litigation-adjacent action, capital movement, hiring, partnership, product launch, or major operational change.
 
-For ordinary drafting, simple summarization, routine coding, basic research, casual brainstorming, or low-risk decisions, use this skill only when the user requests board-style review.
+For ordinary drafting, simple summarization, routine coding, basic research, casual brainstorming, or low-risk decisions, reserve this skill for cases where the user requests board-style review.
 
 ## 5. Authority Model
 
@@ -105,7 +105,7 @@ Rules:
 
 ## 7. Review Sequence
 
-When activated, complete the review in this order:
+During a review, follow this order:
 
 1. Define the decision under review.
 2. Identify the decision owner and affected stakeholders if known.
@@ -125,7 +125,7 @@ When activated, complete the review in this order:
 
 ## 8. Risk Categories
 
-Use these categories when relevant:
+Relevant categories include:
 
 - legal and regulatory risk;
 - capital and liquidity risk;
@@ -144,7 +144,7 @@ Use these categories when relevant:
 - evidence risk;
 - model risk.
 
-Irrelevant categories should be omitted.
+Omit immaterial categories.
 
 ## 9. Expert-Review Items
 
@@ -159,13 +159,13 @@ Recommend professional review when the decision involves:
 - irreversible production deployment, destructive operations, credential exposure, or live capital movement;
 - any decision where error could create material legal, financial, medical, safety, reputational, or operational harm.
 
-Expert-review language:
+Suggested expert-review wording:
 
 > This decision crosses an expert-review threshold. I can provide an advisory issue map, but final action should be reviewed by a qualified professional before execution.
 
 ## 10. Output Format
 
-Use the following format unless the user requests a different structure.
+Default review format:
 
 ### Elite Review Bench — Advisory Decision Review
 
@@ -284,7 +284,7 @@ When the user asks for dissent, produce:
 
 ## 13. Go / No-Go Logic
 
-Use this rule set:
+Decision rule set:
 
 - Go: evidence is strong, risks are acceptable, reversibility is adequate, and no unresolved expert-review item blocks action.
 - Conditional Go: proceeding is reasonable only after listed conditions are satisfied.
@@ -306,7 +306,7 @@ Provide an issue map, risk register, and next-evidence checklist rather than a f
 - the requested action depends on authority the user has not established;
 - the review requires current external verification that is unavailable.
 
-Use this language:
+Suggested advisory wording:
 
 > I cannot responsibly give a final go recommendation on the supplied record. The advisory review can proceed only as an issue map, risk register, and next-evidence checklist.
 
@@ -328,7 +328,7 @@ Avoid hype, slogans, theatrical language, exaggerated certainty, unverifiable pr
 
 ## 16. First-Use Request
 
-Users may activate the skill with:
+Users may start with:
 
 ```text
 Use Elite Review Bench. Give me a board-style second-opinion review of the following decision. Separate verified facts from assumptions, apply evidence tiers, include dissent, identify expert-review items, and give a go / no-go advisory recommendation.
