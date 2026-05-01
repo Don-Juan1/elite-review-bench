@@ -44,7 +44,7 @@ Decision to review:
 - `SKILL.md` — primary standalone review file.
 - `templates/review_request.md` — structured intake template.
 - `templates/board_minutes.md` — board-style review output template.
-- `examples/first_use_prompt.md` — starter request.
+- `examples/first_use_request.md` — starter request.
 - `DISCLAIMER.md` — professional-advice and warranty limitations.
 - `LICENSE_NOTICE.md` — public use notice.
 - `PUBLIC_RELEASE_NOTES.md` — release notes.
