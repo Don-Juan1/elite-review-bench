@@ -4,6 +4,14 @@ Elite Review Bench is intentionally simple: the Markdown files are the product. 
 
 Use it when a decision deserves a cleaner room: facts separated from assumptions, risks made visible, dissent placed on the table, and the next responsible step stated plainly.
 
+## Courtesy v1 Context
+
+Courtesy v1 means the first public courtesy copy of Elite Review Bench. In finance terms, a courtesy copy is a professional-grade sample shared with valued external partners, collaborators, attendees, panelists, hosts, and peers—similar in spirit to how selected investment notes or institutional research excerpts may be circulated for relationship-building, review, or practical evaluation.
+
+This Courtesy v1 edition is formatted for Claude Code use by finance professionals, operators, and builders. It is shared for attendees, panelists, hosts, and peers connected with **Welcome: Vibe Coding for Finance — Weekly Workshop**, including Welcome: Contemporary and related participants.
+
+This context is descriptive only. Elite Review Bench is independent and is not affiliated with, sponsored by, endorsed by, or authorized by any event organizer, platform, firm, institution, regulator, professional body, or AI provider. Courtesy v1 does not imply proprietary access, confidential material, paid research, redistribution rights, or third-party approval.
+
 ## Best Use Cases
 
 Elite Review Bench is strongest for:
@@ -82,12 +90,6 @@ For simple use without a project workspace:
 5. Request an advisory review.
 
 Use `templates/review_request.md` when the decision is complex, evidence-sensitive, or high-consequence.
-
-## Community Courtesy Context
-
-This courtesy edition is formatted for Claude Code use by finance professionals, operators, and builders. It is shared for attendees, panelists, hosts, and peers connected with **Welcome: Vibe Coding for Finance — Weekly Workshop**, including Welcome: Contemporary and related participants.
-
-This context is descriptive only. Elite Review Bench is independent and is not affiliated with, sponsored by, endorsed by, or authorized by any event organizer, platform, firm, institution, regulator, professional body, or AI provider.
 
 ## Limitations
 
