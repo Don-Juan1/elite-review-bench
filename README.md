@@ -2,9 +2,18 @@
 
 Current release: v1.0.3
 
-Elite Review Bench Couresty v.1 is a public, self-contained advisory-review framework for structured decision analysis, second opinions, dissent memos, risk review, and board-style governance review.
+Elite Review Bench Courtesy v1 is a public, self-contained advisory-review framework for structured decision analysis, second opinions, dissent memos, risk review, and board-style governance review.
 
 It helps users slow down high-consequence decisions long enough to separate facts from assumptions, surface dissent, identify expert-review thresholds, and choose the next responsible step.
+
+## Community Courtesy Note
+
+This courtesy release is shared for finance professionals, operators, and builders interested in structured decision review for AI-assisted workflows, including attendees of **Welcome: Vibe Coding for Finance — Weekly Workshop**.
+
+Event link:  
+https://luma.com/g322av28?tk=wXsFD9
+
+This note is informational only. Elite Review Bench remains an independent public framework and is not affiliated with, sponsored by, endorsed by, or authorized by any event organizer, platform, firm, institution, regulator, or professional body.
 
 ## What It Does
 
