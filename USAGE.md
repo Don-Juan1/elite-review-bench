@@ -85,7 +85,7 @@ Use `templates/review_request.md` when the decision is complex, evidence-sensiti
 
 ## Community Courtesy Context
 
-This courtesy edition is adapted from a broader AI-assisted decision-review concept and formatted for Claude Code use by finance professionals, operators, and builders. It is shared for attendees, panelists, hosts, and peers connected with **Welcome: Vibe Coding for Finance — Weekly Workshop**, including Welcome: Contemporary and related participants.
+This courtesy edition is formatted for Claude Code use by finance professionals, operators, and builders. It is shared for attendees, panelists, hosts, and peers connected with **Welcome: Vibe Coding for Finance — Weekly Workshop**, including Welcome: Contemporary and related participants.
 
 This context is descriptive only. Elite Review Bench is independent and is not affiliated with, sponsored by, endorsed by, or authorized by any event organizer, platform, firm, institution, regulator, professional body, or AI provider.
 
