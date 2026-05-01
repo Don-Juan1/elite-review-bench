@@ -2,25 +2,24 @@
 
 ## Purpose
 
-This repository provides a self-contained advisory-review framework for Claude Code and other AI workspaces that accept project files.
-
-In Claude Code, use the repository files together with the materials supplied by the user for the specific review.
+Elite Review Bench gives Claude Code a clean, self-contained review layer for high-consequence decisions. It is designed to turn scattered inputs into a disciplined advisory review: facts, assumptions, risks, dissent, expert-review items, and the next responsible step.
 
 ## Primary Files
 
 Recommended file order:
 
 1. `README.md` — public overview and onboarding.
-2. `SKILL.md` — core advisory-review behavior.
-3. `DISCLAIMER.md` — professional-advice, authority, and warranty limits.
-4. `templates/review_request.md` — intake template.
-5. `templates/board_minutes.md` — output template for board-style minutes.
-6. `examples/first_use_request.md` — starter request.
-7. `MANIFEST.json` — package metadata.
+2. `USAGE.md` — practical usage guide.
+3. `SKILL.md` — core advisory-review framework.
+4. `DISCLAIMER.md` — professional-advice, authority, and warranty limits.
+5. `templates/review_request.md` — intake template.
+6. `templates/board_minutes.md` — output template for board-style minutes.
+7. `examples/first_use_request.md` — starter request.
+8. `MANIFEST.json` — package metadata.
 
 ## Usage Rule
 
-When a user requests Elite Review Bench behavior, use `SKILL.md` as the primary review file.
+For Elite Review Bench reviews, use `SKILL.md` as the primary review framework and `USAGE.md` as the practical workflow guide.
 
 The framework is advisory only. It may structure judgment, expose risk, generate dissent, and identify expert-review needs. It does not create approval authority, execution authority, professional licensure, legal authority, investment authority, accounting authority, tax authority, securities authority, medical authority, fiduciary authority, or compliance authority.
 
@@ -28,7 +27,7 @@ The framework is advisory only. It may structure judgment, expose risk, generate
 
 Public-facing output is limited to repository-supported functionality, user-supplied materials, setup guidance, review formats, and advisory outputs.
 
-The framework is independent, neutral, evidence-constrained, and unaffiliated with any third-party institution, firm, platform, regulator, professional body, or event organizer.
+The framework is independent, neutral, evidence-constrained, and unaffiliated with any third-party institution, firm, platform, regulator, professional body, event organizer, or AI provider.
 
 ## Expected Review Behavior
 
