@@ -1,12 +1,18 @@
 # Public Release Notes
 
-## Elite Review Bench v1.0.4
+## Elite Review Bench v1.0.5
 
-This release adds a polished usage guide and refines the public package language for clarity, readability, and practical adoption.
+This release standardizes the Courtesy v1 language and preserves the public package’s professional tone, usage clarity, and exposure-control posture.
 
 ## Release Purpose
 
 Create a portable, evidence-constrained review framework that users can apply in AI workspaces for high-consequence decision review, risk review, dissent generation, and next-step discipline.
+
+## Courtesy v1 Definition
+
+Courtesy v1 means the first public courtesy copy of Elite Review Bench. In finance terms, a courtesy copy is a professional-grade sample shared with valued external partners, collaborators, attendees, panelists, hosts, and peers—similar in spirit to how selected investment notes or institutional research excerpts may be circulated for relationship-building, review, or practical evaluation.
+
+Courtesy v1 does not imply proprietary access, confidential material, paid research, redistribution rights, third-party approval, sponsorship, endorsement, or institutional affiliation.
 
 ## Included Capabilities
 
@@ -25,9 +31,8 @@ Create a portable, evidence-constrained review framework that users can apply in
 
 ## Public-Release Updates
 
-- Adds `USAGE.md` as the practical setup and workflow guide.
-- Updates `README.md` for cleaner onboarding and v1.0.4 consistency.
-- Updates `MANIFEST.json` and `VERSION` for package integrity.
+- Standardizes all public courtesy language as Courtesy v1.
+- Adds a finance-world courtesy-copy definition for readers unfamiliar with the term.
+- Preserves the community/workshop context while maintaining clear independence and no-affiliation language.
 - Keeps documentation focused on repository-supported features, setup guidance, review formats, and expected outputs.
-- Preserves the community courtesy context while maintaining clear independence and no-affiliation language.
-- Strengthens the public-facing tone: concise, professional, readable, and evidence-first.
+- Maintains the public-facing tone: concise, professional, readable, and evidence-first.
