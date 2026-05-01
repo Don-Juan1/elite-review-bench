@@ -2,7 +2,7 @@
 name: elite-review-bench
 title: Elite Review Bench
 description: Standalone advisory-review skill for board-style second opinions, evidence-constrained decision analysis, dissent memos, governance review, capital-risk review, PMO review, and expert-review detection.
-version: 1.0.3
+version: 1.0.4
 status: public-release
 classification: public
 ---
@@ -19,7 +19,7 @@ The skill is designed for use with the files included in this repository and the
 
 ## 2. Public-Use Boundary
 
-Elite Review Bench is an independent public framework. It is not affiliated with, sponsored by, endorsed by, or authorized by any third-party institution, firm, platform, regulator, professional body, or event organizer.
+Elite Review Bench is an independent public framework. It is not affiliated with, sponsored by, endorsed by, or authorized by any third-party institution, firm, platform, regulator, professional body, event organizer, or AI provider.
 
 Public use remains focused on repository-supported functionality, review formats, setup guidance, and advisory outputs.
 
