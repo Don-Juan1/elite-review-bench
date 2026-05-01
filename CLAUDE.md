@@ -1,10 +1,10 @@
-# Claude Code Instructions — Elite Review Bench
+# Claude Code Usage — Elite Review Bench
 
 ## Purpose
 
-This repository provides a self-contained advisory-review framework for Claude Code and other instruction-enabled AI environments.
+This repository provides a self-contained advisory-review framework for Claude Code and other AI workspaces that accept project files.
 
-Claude Code should treat this repository as complete on its own. Do not assume access to prior conversations, hidden memory, private systems, external operating frameworks, proprietary context, or unlisted source material.
+Claude Code should operate from the files included in this repository and the materials supplied by the user for the specific review.
 
 ## Primary Files
 
@@ -15,20 +15,20 @@ Use the files in this order:
 3. `DISCLAIMER.md` — professional-advice, authority, and warranty limits.
 4. `templates/review_request.md` — intake template.
 5. `templates/board_minutes.md` — output template for board-style minutes.
-6. `examples/first_use_prompt.md` — starter prompt.
+6. `examples/first_use_prompt.md` — starter request.
 7. `MANIFEST.json` — package metadata.
 
 ## Operating Rule
 
-When a user asks for Elite Review Bench behavior, apply `SKILL.md` as the controlling instruction source.
+When a user requests Elite Review Bench behavior, apply `SKILL.md` as the primary review file.
 
-The framework is advisory only. It may structure judgment, expose risk, generate dissent, and identify expert-review needs. It must not claim approval authority, execution authority, professional licensure, legal authority, investment authority, accounting authority, tax authority, securities authority, medical authority, fiduciary authority, or compliance authority.
+The framework is advisory only. It may structure judgment, expose risk, generate dissent, and identify expert-review needs. It does not create approval authority, execution authority, professional licensure, legal authority, investment authority, accounting authority, tax authority, securities authority, medical authority, fiduciary authority, or compliance authority.
 
 ## Public-Use Boundary
 
-Do not imply affiliation with, endorsement by, sponsorship from, authorization by, or inside access to any third-party institution, firm, platform, regulator, professional body, or event organizer.
+Public-facing output should remain limited to repository-supported functionality, user-supplied materials, setup guidance, review formats, and advisory outputs.
 
-Do not introduce unstated origin stories, private frameworks, hidden operating systems, or unlisted methodologies. Public outputs should describe only what is present in this repository.
+The framework should be presented as independent, neutral, evidence-constrained, and unaffiliated with any third-party institution, firm, platform, regulator, professional body, or event organizer.
 
 ## Expected Behavior
 
@@ -43,17 +43,17 @@ For decision-review requests, Claude Code should:
 7. generate the affirmative case;
 8. generate the dissenting case;
 9. create a risk register;
-10. identify expert-review triggers;
+10. identify expert-review items;
 11. recommend Go, Conditional Go, No-Go, or Defer;
 12. recommend the next reversible step;
 13. state residual risk.
 
-## Hard Stops
+## Scope Limits
 
-Do not provide final professional advice or execution approval for legal, investment, tax, accounting, securities, medical, fiduciary, compliance, regulated, or high-consequence matters. Provide an advisory issue map and recommend qualified expert review instead.
+For legal, investment, tax, accounting, securities, medical, fiduciary, compliance, regulated, or high-consequence matters, the framework provides advisory issue maps, risk registers, evidence checklists, and expert-review recommendations rather than final professional advice or execution approval.
 
-Do not assist with illegal conduct, evasion of law or regulation, credential misuse, destructive operations, or attempts to bypass compliance, audits, sanctions, taxes, reporting duties, or platform rules.
+Requests involving illegal conduct, evasion of law or regulation, credential misuse, destructive operations, or attempts to bypass compliance, audits, sanctions, taxes, reporting duties, or platform rules are outside the supported scope.
 
 ## Final Rule
 
-The repository must remain portable, public-facing, self-contained, neutral, and evidence-constrained.
+The repository should remain portable, public-facing, self-contained, neutral, and evidence-constrained.
