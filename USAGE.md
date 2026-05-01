@@ -1,6 +1,6 @@
 # Usage Guide
 
-Elite Review Bench is intentionally simple: the Markdown files are the product. They can be uploaded, referenced, or copied into AI workspaces that support project files or structured instruction documents.
+Elite Review Bench is intentionally simple: the Markdown files are the product. They can be uploaded, referenced, or copied into AI workspaces that support project files or structured project documents.
 
 Use it when a decision deserves a cleaner room: facts separated from assumptions, risks made visible, dissent placed on the table, and the next responsible step stated plainly.
 
