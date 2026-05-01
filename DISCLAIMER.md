@@ -21,7 +21,7 @@ Users are responsible for:
 
 ## High-Consequence Decisions
 
-Do not rely on this framework alone for decisions involving material legal, financial, medical, safety, reputational, regulatory, employment, privacy, cybersecurity, capital, or operational consequences. Obtain qualified professional review before execution.
+This framework should not be the sole basis for decisions involving material legal, financial, medical, safety, reputational, regulatory, employment, privacy, cybersecurity, capital, or operational consequences. Obtain qualified professional review before execution.
 
 ## No Third-Party Affiliation
 
