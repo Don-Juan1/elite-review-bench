@@ -1,19 +1,21 @@
 # Elite Review Bench
 
-Current release: v1.0.4
+Current release: v1.0.5
 
 Elite Review Bench is a public, self-contained advisory-review framework for structured decision analysis, second opinions, dissent memos, risk review, and board-style governance review.
 
 It helps users slow down high-consequence decisions long enough to separate facts from assumptions, make risk visible, surface dissent, and choose the next responsible step.
 
-## Community Courtesy Note
+## Courtesy v1 Note
 
-This courtesy release is shared for finance professionals, operators, and builders interested in structured decision review for AI-assisted workflows, including attendees of **Welcome: Vibe Coding for Finance — Weekly Workshop**.
+Courtesy v1 means the first public courtesy copy of Elite Review Bench. In finance terms, a courtesy copy is a professional-grade sample shared with valued external partners, collaborators, attendees, panelists, hosts, and peers—similar in spirit to how selected investment notes or institutional research excerpts may be circulated for relationship-building, review, or practical evaluation.
+
+This Courtesy v1 release is shared for finance professionals, operators, and builders interested in structured decision review for AI-assisted workflows, including attendees of **Welcome: Vibe Coding for Finance — Weekly Workshop**.
 
 Event link:  
 https://luma.com/g322av28?tk=wXsFD9
 
-This note is informational only. Elite Review Bench remains an independent public framework and is not affiliated with, sponsored by, endorsed by, or authorized by any event organizer, platform, firm, institution, regulator, professional body, or AI provider.
+This note is informational only. Elite Review Bench remains an independent public framework and is not affiliated with, sponsored by, endorsed by, or authorized by any event organizer, platform, firm, institution, regulator, professional body, or AI provider. Courtesy v1 does not imply proprietary access, confidential material, paid research, redistribution rights, or third-party approval.
 
 ## What It Does
 
