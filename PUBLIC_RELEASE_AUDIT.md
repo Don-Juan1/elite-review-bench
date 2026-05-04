@@ -8,7 +8,7 @@ Elite Review Bench is intended to be a public, self-contained advisory-review fr
 
 ## Public Boundary
 
-The repository should not depend on or disclose any non-public source context, private workspace materials, private methods, internal operating logic, hidden project architecture, unreleased strategy, confidential examples, private prompts, private conversation history, or non-public third-party material.
+The repository should not depend on or disclose non-public source context, confidential source materials, unreleased strategy, confidential examples, private prompts, private conversation history, or non-public third-party material.
 
 Public-facing materials should describe only what the repository itself provides:
 
@@ -50,4 +50,4 @@ The repository should remain:
 
 ## Current Release Note
 
-Version 1.0.6 adds this public release audit file and preserves the repository's public-use boundary. This file is a public hygiene control. It is not a disclosure of non-public materials, methods, or source architecture.
+Version 1.0.6 adds this public release audit file and preserves the repository's public-use boundary. This file is a public hygiene control. It is not a disclosure of non-public source material or confidential architecture.
