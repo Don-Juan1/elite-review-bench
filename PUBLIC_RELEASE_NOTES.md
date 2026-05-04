@@ -1,8 +1,8 @@
 # Public Release Notes
 
-## Elite Review Bench v1.0.5
+## Elite Review Bench v1.0.6
 
-This release standardizes the Courtesy v1 language and preserves the public package’s professional tone, usage clarity, and exposure-control posture.
+This release standardizes the Courtesy v1 language, preserves the public package’s professional tone, and adds an explicit public release audit boundary without exposing non-public source material.
 
 ## Release Purpose
 
@@ -28,6 +28,7 @@ Courtesy v1 does not imply proprietary access, confidential material, paid resea
 - Pre-mortem review.
 - Claude Code self-contained usage support.
 - Practical usage guidance for Claude Code, Claude Projects, ChatGPT Projects, and manual copy-paste workflows.
+- Public release hygiene guidance through `PUBLIC_RELEASE_AUDIT.md`.
 
 ## Public-Release Updates
 
@@ -35,4 +36,6 @@ Courtesy v1 does not imply proprietary access, confidential material, paid resea
 - Adds a finance-world courtesy-copy definition for readers unfamiliar with the term.
 - Preserves the community/workshop context while maintaining clear independence and no-affiliation language.
 - Keeps documentation focused on repository-supported features, setup guidance, review formats, and expected outputs.
+- Adds `PUBLIC_RELEASE_AUDIT.md` as a public boundary and release-hygiene control.
+- Updates `README.md`, `SKILL.md`, `MANIFEST.json`, and `VERSION` to v1.0.6.
 - Maintains the public-facing tone: concise, professional, readable, and evidence-first.
