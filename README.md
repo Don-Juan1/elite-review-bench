@@ -1,6 +1,6 @@
 # Elite Review Bench
 
-Current release: v1.0.5
+Current release: v1.0.6
 
 Elite Review Bench is a public, self-contained advisory-review framework for structured decision analysis, second opinions, dissent memos, risk review, and board-style governance review.
 
@@ -64,6 +64,7 @@ Decision to review:
 - `DISCLAIMER.md` — professional-advice and warranty limitations.
 - `LICENSE_NOTICE.md` — public use notice.
 - `PUBLIC_RELEASE_NOTES.md` — release notes.
+- `PUBLIC_RELEASE_AUDIT.md` — public release boundary and hygiene standard.
 - `MANIFEST.json` — package metadata.
 - `VERSION` — current release version.
 
