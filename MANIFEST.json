@@ -1,13 +1,14 @@
 {
   "name": "elite-review-bench",
   "title": "Elite Review Bench",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "status": "public-release",
   "classification": "public",
   "description": "Standalone advisory-review framework for board-style second opinions, evidence-constrained decision analysis, dissent memos, governance review, risk review, PMO review, and expert-review detection.",
   "primary_file": "SKILL.md",
   "usage_file": "USAGE.md",
   "claude_code_file": "CLAUDE.md",
+  "audit_file": "PUBLIC_RELEASE_AUDIT.md",
   "files": [
     "README.md",
     "USAGE.md",
@@ -15,6 +16,7 @@
     "SKILL.md",
     "DISCLAIMER.md",
     "PUBLIC_RELEASE_NOTES.md",
+    "PUBLIC_RELEASE_AUDIT.md",
     "LICENSE_NOTICE.md",
     "MANIFEST.json",
     "VERSION",
@@ -29,6 +31,6 @@
     "Generate a dissent memo",
     "Run a board-level risk review"
   ],
-  "use_boundary": "Advisory decision-support only. See DISCLAIMER.md and LICENSE_NOTICE.md.",
-  "release_note": "Courtesy v1 language is defined in README.md, USAGE.md, and PUBLIC_RELEASE_NOTES.md."
+  "use_boundary": "Advisory decision-support only. See DISCLAIMER.md, LICENSE_NOTICE.md, and PUBLIC_RELEASE_AUDIT.md.",
+  "release_note": "Courtesy v1 language is defined in README.md, USAGE.md, and PUBLIC_RELEASE_NOTES.md. Public release hygiene is documented in PUBLIC_RELEASE_AUDIT.md."
 }
