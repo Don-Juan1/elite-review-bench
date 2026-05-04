@@ -2,7 +2,7 @@
 name: elite-review-bench
 title: Elite Review Bench
 description: Standalone advisory-review skill for board-style second opinions, evidence-constrained decision analysis, dissent memos, governance review, capital-risk review, PMO review, and expert-review detection.
-version: 1.0.5
+version: 1.0.6
 status: public-release
 classification: public
 ---
