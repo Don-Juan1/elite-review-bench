@@ -1,21 +1,16 @@
 # Elite Review Bench
 
-Current release: v1.0.6
+Current release: v1.0.7
 
 Elite Review Bench is a public, self-contained advisory-review framework for structured decision analysis, second opinions, dissent memos, risk review, and board-style governance review.
 
-It helps users slow down high-consequence decisions long enough to separate facts from assumptions, make risk visible, surface dissent, and choose the next responsible step.
+It helps users slow down high-consequence decisions long enough to separate facts from assumptions, make risk visible, surface dissent, identify expert-review thresholds, and choose the next responsible step.
 
 ## Courtesy v1 Note
 
-Courtesy v1 means the first public courtesy copy of Elite Review Bench. In finance terms, a courtesy copy is a professional-grade sample shared with valued external partners, collaborators, attendees, panelists, hosts, and peers—similar in spirit to how selected investment notes or institutional research excerpts may be circulated for relationship-building, review, or practical evaluation.
+Courtesy v1 is the first public courtesy copy of Elite Review Bench. It is a professional-grade public sample for finance professionals, operators, builders, and other users who need structured decision review for AI-assisted workflows.
 
-This Courtesy v1 release is shared for finance professionals, operators, and builders interested in structured decision review for AI-assisted workflows, including attendees of **Welcome: Vibe Coding for Finance — Weekly Workshop**.
-
-Event link:  
-https://luma.com/g322av28?tk=wXsFD9
-
-This note is informational only. Elite Review Bench remains an independent public framework and is not affiliated with, sponsored by, endorsed by, or authorized by any event organizer, platform, firm, institution, regulator, professional body, or AI provider. Courtesy v1 does not imply proprietary access, confidential material, paid research, redistribution rights, or third-party approval.
+This note is informational only. Elite Review Bench is independent and is not affiliated with, sponsored by, endorsed by, or authorized by any event organizer, platform, firm, institution, regulator, professional body, or AI provider. Courtesy v1 does not imply proprietary access, confidential material, paid research, redistribution rights, third-party approval, sponsorship, endorsement, or institutional affiliation.
 
 ## What It Does
 
@@ -29,9 +24,22 @@ Elite Review Bench gives users a disciplined advisory layer for reviewing import
 - professional-grade decision support;
 - pre-mortem and go / no-go review.
 
-## Claude Code Use
+## Institutional Quality Standard
 
-This repository is self-contained. A new Claude Code session can use the included files directly, without any prerequisite setup beyond the materials in this repository.
+The framework is designed to produce work product that is:
+
+- evidence-first;
+- concise and executive-readable;
+- skeptical without being theatrical;
+- useful under time pressure;
+- careful with uncertainty;
+- explicit about assumptions, missing facts, and residual risk.
+
+It does not claim to reproduce, represent, disclose, or derive from any third-party institution, firm, platform, adviser, regulator, professional body, or private source.
+
+## AI Workspace Use
+
+This repository is self-contained. A new AI workspace can use the included files directly, without prerequisite setup beyond the materials in this repository.
 
 Recommended entry files:
 
