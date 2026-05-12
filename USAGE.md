@@ -6,11 +6,9 @@ Use it when a decision deserves a cleaner room: facts separated from assumptions
 
 ## Courtesy v1 Context
 
-Courtesy v1 means the first public courtesy copy of Elite Review Bench. In finance terms, a courtesy copy is a professional-grade sample shared with valued external partners, collaborators, attendees, panelists, hosts, and peers—similar in spirit to how selected investment notes or institutional research excerpts may be circulated for relationship-building, review, or practical evaluation.
+Courtesy v1 is the first public courtesy copy of Elite Review Bench. It is a professional-grade public sample for finance professionals, operators, builders, and other users who need structured decision review for AI-assisted workflows.
 
-This Courtesy v1 edition is formatted for Claude Code use by finance professionals, operators, and builders. It is shared for attendees, panelists, hosts, and peers connected with **Welcome: Vibe Coding for Finance — Weekly Workshop**, including Welcome: Contemporary and related participants.
-
-This context is descriptive only. Elite Review Bench is independent and is not affiliated with, sponsored by, endorsed by, or authorized by any event organizer, platform, firm, institution, regulator, professional body, or AI provider. Courtesy v1 does not imply proprietary access, confidential material, paid research, redistribution rights, or third-party approval.
+This context is descriptive only. Elite Review Bench is independent and is not affiliated with, sponsored by, endorsed by, or authorized by any event organizer, platform, firm, institution, regulator, professional body, or AI provider. Courtesy v1 does not imply proprietary access, confidential material, paid research, redistribution rights, third-party approval, sponsorship, endorsement, or institutional affiliation.
 
 ## Best Use Cases
 
@@ -90,6 +88,23 @@ For simple use without a project workspace:
 5. Request an advisory review.
 
 Use `templates/review_request.md` when the decision is complex, evidence-sensitive, or high-consequence.
+
+## Quality Controls
+
+When the output is intended for a high-consequence review, ask the model to include:
+
+- verified facts and assumptions;
+- evidence tiers;
+- missing facts;
+- objective function and constraints;
+- affirmative and dissenting cases;
+- a risk register;
+- expert-review items;
+- a go, conditional-go, no-go, or defer recommendation;
+- the next reversible step;
+- residual risk.
+
+Do not use the framework as proof of authority, sponsorship, endorsement, certification, or professional approval.
 
 ## Limitations
 
